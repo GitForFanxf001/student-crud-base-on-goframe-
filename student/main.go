@@ -15,4 +15,9 @@ import (
 func main() {
 	cmd.Main.Run(gctx.GetInitCtx())
 	fmt.Println("第二次提交")
+	fmt.Println("第3次提交")
+	fmt.Println("第3次提交")
+	fmt.Println("第3次提交")
+	fmt.Println("第3次提交")
+	fmt.Println("第3次提交")
 }
