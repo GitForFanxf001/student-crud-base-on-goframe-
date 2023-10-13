@@ -31,4 +31,11 @@ func main() {
 	fmt.Println("切换到hot-fix分之后的第1次提交")
 	fmt.Println("切换到hot-fix分之后的第1次提交")
 	fmt.Println("切换到hot-fix分之后的第1次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
+	fmt.Println("切换到hot-fix分之后的第2次提交")
 }
