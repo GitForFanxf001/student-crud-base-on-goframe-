@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	_ "student/internal/packed"
 
 	_ "github.com/gogf/gf/contrib/drivers/mysql/v2"
@@ -13,4 +14,5 @@ import (
 
 func main() {
 	cmd.Main.Run(gctx.GetInitCtx())
+	fmt.Println("第二次提交")
 }
